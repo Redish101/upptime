@@ -14,7 +14,7 @@ status-website:
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
-    - title: 状态
+    - title: 博客首页
       href: /
     - title: 博客源代码
       href: https://github.com/Redish101/redish101.github.io
