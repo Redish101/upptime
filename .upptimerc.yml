@@ -3,14 +3,8 @@ owner: Redish101 # Your GitHub organization or username, where this repository l
 repo: upptime # The name of this repository
 
 sites:
-  - name: 博客
+  - name: Redish101博客
     url: https://redish101.github.io
-  - name: 博客管理系统
-    url: https://www.qexo101.tk
-  - name: 图床系统
-    url: https://cdn.jsdelivr.net
-  - name: CDN服务
-    url: https://redish101.github.io/cdn
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
@@ -20,8 +14,8 @@ status-website:
   introTitle: "页面介绍"
   introMessage: 此页面为Redish101的状态检测页面，如有报错，请在[Redish101.github.io](https://github.com/redish101/redish101.github.io)仓库中提交issues
   navbar:
-    - title: 博客首页
-      href: /
+    - title: 首页
+      href: /upptime
     - title: 博客源代码
       href: https://github.com/Redish101/redish101.github.io
     - title: 构建日志
