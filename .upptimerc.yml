@@ -16,7 +16,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Redish101博客状态
+  name: Redish101的upptime
   introTitle: "页面介绍"
   introMessage: 此页面为Redish101的状态检测页面，如有报错，请在[Redish101.github.io](https://github.com/redish101/redish101.github.io)仓库中提交issues
   navbar:
