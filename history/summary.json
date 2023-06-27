@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/redish101.github.io.ico",
     "slug": "redish101",
     "status": "up",
-    "uptime": "78.73%",
+    "uptime": "78.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.98%",
+    "uptimeYear": "97.25%",
     "time": 544,
-    "timeDay": 615,
-    "timeWeek": 671,
-    "timeMonth": 646,
-    "timeYear": 705,
+    "timeDay": 574,
+    "timeWeek": 643,
+    "timeMonth": 644,
+    "timeYear": 706,
     "dailyMinutesDown": {
       "2022-07-07": 151,
       "2022-07-06": 1440,
@@ -25,8 +25,7 @@
       "2022-07-01": 1440,
       "2022-06-30": 1440,
       "2022-06-29": 1440,
-      "2022-06-28": 1440,
-      "2022-06-27": 1440
+      "2022-06-28": 1440
     }
   }
 ]
