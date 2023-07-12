@@ -4,17 +4,19 @@
     "url": "https://redish101.github.io",
     "icon": "https://icons.duckduckgo.com/ip3/redish101.github.io.ico",
     "slug": "redish101",
-    "status": "up",
+    "status": "down",
     "uptime": "79.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 559,
-    "timeDay": 883,
-    "timeWeek": 658,
-    "timeMonth": 655,
-    "timeYear": 727,
-    "dailyMinutesDown": {}
+    "timeDay": 632,
+    "timeWeek": 624,
+    "timeMonth": 646,
+    "timeYear": 726,
+    "dailyMinutesDown": {
+      "2023-07-12": 0
+    }
   }
 ]
